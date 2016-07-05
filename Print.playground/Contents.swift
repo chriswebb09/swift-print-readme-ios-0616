@@ -17,3 +17,6 @@ print("Hi Mom! My favorite word is \(favoriteWord), my favorite color is \(favor
 
 var skySentence = "The sky is \(color)."
 print(skySentence)
+
+
+print(skySentence)
